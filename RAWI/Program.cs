@@ -1,7 +1,4 @@
-﻿using System;
-using System.Threading;
-using System.Threading.Tasks;
-class Program
+﻿class RAWI
 {
     static void Main(string[] args)
     {
